@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="{{a}}"></image><view class="text-area"><text class="title">{{b}}</text></view><navigator url="/pages/upload/upload" hover-class="navigator-hover"><button type="default">前往上传页</button></navigator></view>
